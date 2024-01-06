@@ -85,4 +85,19 @@ console.log(a);
 a=parseFloat(a);
 console.log(typeof a);
 
+let v1=15;
+V1=15;
+// comparision operator
+console.log(V1==20);
+console.log(V1==="15",typeof V1);
+console.log(V1!=15);
+console.log(V1!=="15" ,typeof V1);
 
+//RELATIONAL OPERATOR
+
+console.log(v1>1);
+console.log(v1<1);
+console.log(v1<=1);
+console.log(v1>=1);
+
+//logical operator
